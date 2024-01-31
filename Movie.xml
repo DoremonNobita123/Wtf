@@ -42,3 +42,15 @@
 <ReleaseYear>2020</ReleaseYear>
 </Movie>
 </MovieInfo>
+B1
+
+<?php
+$xml = simplexml_load_file("book.xml");
+foreach ($xml->book as $bk) {
+    echo "Book Number  = $bk->bookno<br>";
+    echo "Book Name = $bk->bookname <br>";
+    echo "Book Author = $bk->authorname<br>";
+    echo "Book Price = $bk->price <br>";
+    echo "Year = $bk->year<br>";
+}
+?>
