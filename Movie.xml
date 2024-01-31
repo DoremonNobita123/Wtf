@@ -1,0 +1,44 @@
+<MovieInfo>
+<Movie>
+<MovieNo>1</MovieNo>
+<MovieTitle>War</MovieTitle>
+<ActorName>Hrithik Roshan</ActorName>
+<ReleaseYear>2019</ReleaseYear>
+</Movie>
+<Movie>
+<MovieNo>2</MovieNo>
+<MovieTitle>Pathaan</MovieTitle>
+<ActorName>Shahrukh Khan</ActorName>
+<ReleaseYear>2023</ReleaseYear>
+</Movie>
+<Movie>
+<MovieNo>3</MovieNo>
+<MovieTitle>Dunki</MovieTitle>
+<ActorName>Shahrukh Khan</ActorName>
+<ReleaseYear>2023</ReleaseYear>
+</Movie>
+<Movie>
+<MovieNo>4</MovieNo>
+<MovieTitle>URI</MovieTitle>
+<ActorName>Vicky Kaushal</ActorName>
+<ReleaseYear>2019</ReleaseYear>
+</Movie>
+<Movie>
+<MovieNo>5</MovieNo>
+<MovieTitle>Tiger 3</MovieTitle>
+<ActorName>Salmaan Khan</ActorName>
+<ReleaseYear>2023</ReleaseYear>
+</Movie>
+<Movie>
+<MovieNo>6</MovieNo>
+<MovieTitle>12th Fail</MovieTitle>
+<ActorName>Vikrant Massey</ActorName>
+<ReleaseYear>2023</ReleaseYear>
+</Movie>
+<Movie>
+<MovieNo>7</MovieNo>
+<MovieTitle>Tanhaji</MovieTitle>
+<ActorName>Ajay Devgn</ActorName>
+<ReleaseYear>2020</ReleaseYear>
+</Movie>
+</MovieInfo>
